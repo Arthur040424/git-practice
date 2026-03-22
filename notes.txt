@@ -4,3 +4,4 @@ Currently doing an exercise on git
 
 credential helper test
 testing credentials
+ssh test
