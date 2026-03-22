@@ -1,4 +1,4 @@
-# This is the main branch version of line one
+This is the main branch version of line one
 
 Currently doing an exercise on git
 
