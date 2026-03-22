@@ -1,4 +1,4 @@
-I am currently learning about Git and Github
+# This is the feature branch version of line one
 
 Currently doing an exercise on git
 
